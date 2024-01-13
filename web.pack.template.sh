@@ -1,0 +1,1 @@
+npm install -D css-loader html-webpack-plugin pug pug-loader sass sass-loader style-loader webpack webpack-cli webpack-dev-server
